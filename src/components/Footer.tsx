@@ -36,7 +36,7 @@ export const Footer: React.FC<FooterProps> = ({ theme, onOpenAdmission }) => {
             <div className="flex items-center gap-3">
               <div className="w-12 h-12 rounded-2xl overflow-hidden p-0.5 bg-gradient-to-tr from-emerald-500 to-amber-400">
                 <img 
-                  src="/images/logo.jpg" 
+                  src="./images/logo.jpg" 
                   alt="IDOL FC Crest" 
                   className="w-full h-full object-cover rounded-[14px] bg-slate-900"
                 />

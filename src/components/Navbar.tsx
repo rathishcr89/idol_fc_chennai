@@ -101,7 +101,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             <div className="relative">
               <div className="w-13 h-13 rounded-2xl overflow-hidden p-0.5 bg-gradient-to-tr from-emerald-500 via-emerald-400 to-amber-400 shadow-lg shadow-emerald-500/20 group-hover:scale-105 transition-transform duration-300">
                 <img 
-                  src="/images/logo.jpg" 
+                  src="./images/logo.jpg" 
                   alt="IDOL Football Club Crest" 
                   className="w-full h-full object-cover rounded-[14px] bg-slate-900"
                   onError={(e) => {

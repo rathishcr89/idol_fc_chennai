@@ -54,7 +54,7 @@ export const FOUNDER_DATA = {
   role: "Founder & Managing Director",
   formerRole: "Former Professional Footballer",
   quote: "Our goal is not just to build great football players, but to shape disciplined, confident, and resilient leaders for tomorrow.",
-  image: "/images/founder.jpeg",
+  image: "./images/founder.jpeg",
   bio: [
     "Anandan Thangavelu launched IDOL FC with a singular, unwavering vision: to transform Chennai into a powerhouse of Indian football. Having competed on the pitch himself, he spent over a decade witnessing the immense, untapped raw talent thriving across Tamil Nadu's youth.",
     "Driven by the conviction that every aspiring player deserves world-class guidance regardless of financial background, he established IDOL FC as a completely free training center. Under his personal mentorship, the academy has grown into one of Chennai's most respected youth development hubs, actively preparing under-19 athletes for professional trials, state championships, and club academies."
