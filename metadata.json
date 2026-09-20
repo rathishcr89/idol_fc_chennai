@@ -2,6 +2,7 @@
   "name": "IDOL Football Club",
   "description": "Chennai's premier free youth football training academy (U19) in East Kavangarai, dedicated to grassroots excellence and professional player development.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
-
